@@ -1,4 +1,4 @@
-# 🛡️ Solana Scanner (Private)
+# 🛡️ Solana Private Keys Scanner (Private)
 
 Welcome! This is a **public placeholder** for my **private Solana key scanner project**.
 
