@@ -19,7 +19,7 @@ Welcome! This is a **public placeholder** for my **private Solana key scanner pr
 
 **Want to request access or see a demo?** Reach out to me on Telegram:  
 
-📬 **[@Carl_Crypt](https://t.me/Carl_Crypt)**  
+[![Telegram](https://img.shields.io/badge/Contact-@Carl_Crypt-blue?style=for-the-badge&logo=telegram)](https://t.me/Carl_Crypt)  
 
 > ⚡ I’m happy to provide controlled access or answer questions about the project.  
 
