@@ -9,8 +9,10 @@ Welcome! This is a **public placeholder** for my **private Solana key scanner pr
 ## 📌 Project Summary
 
 ✨ **What it does:**  
-- Defensive Solana key scanner 🕵️‍♂️  
-- Detects potential key leaks to help secure Solana accounts 🔐  
+- Defensive Solana key scanner 🕵️‍♂️
+- Offensive Solana key scanner 💎💰
+- This tool is used to scan other people's repos and extract their private keys 💰🕵️‍♂️ 
+- Detects potential key leaks to help secure Solana Wallets 🔐  
 - Code is **private and not accessible publicly** 🚫  
 
 ---
