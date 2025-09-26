@@ -31,8 +31,6 @@ Welcome! This is a **public placeholder** for my **private Solana key scanner pr
 
 ![Views](https://img.shields.io/badge/Views-0-blue)  
 
-💰
-
 > This badge updates automatically via GitHub Actions to show aggregate repository views.
 
 ---
